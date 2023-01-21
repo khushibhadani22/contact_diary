@@ -34,7 +34,7 @@ class _SplashState extends State<Splash> {
             ),
             const CircularProgressIndicator(),
             const Text(
-              "Made By Khushi Bhadani....",
+              "Made By Flutter....",
               style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),
             ),
           ],
